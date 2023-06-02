@@ -1,0 +1,35 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #364AA7;
+}
+canvas {
+  display: block;
+}
+
+#cjogo{
+  display: flex;
+  justify-content: center;
+}
+
+#cjogo span{
+  padding-top: 70px;
+}
+
+#Cabecalho{
+  display: flex;
+  justify-content: center;
+}
+
+#Cabecalho img{
+  padding-top: 20px;
+}
+
+#rodape{
+  display: flex;
+  justify-content: center;
+}
+
+#rodape img{
+  padding-top: 35px;
+}
